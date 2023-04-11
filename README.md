@@ -1,7 +1,7 @@
 # Kasper-web
 This project build by using html5 and css. (fully responsive)
 
-## Demo 
+## Preview 
 ### [Kasper-web](https://kasper-web.vercel.app/)
 
 
